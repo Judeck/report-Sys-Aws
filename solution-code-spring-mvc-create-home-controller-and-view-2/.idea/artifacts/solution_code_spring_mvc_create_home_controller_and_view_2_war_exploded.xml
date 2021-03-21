@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="solution-code-spring-mvc-create-home-controller-and-view-2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/solution_code_spring_mvc_create_home_controller_and_view_2_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="solution-code-spring-mvc-create-home-controller-and-view-2/web/Web" />
+    </root>
+  </artifact>
+</component>
